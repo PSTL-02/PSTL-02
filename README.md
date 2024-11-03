@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Neel Mohan
 Hi there! 👋 I’m a passionate web developer on a journey to mastering full stack development. I thrive on complex challenges that push me to grow and am constantly exploring new technologies and techniques to expand my skill set. With a background in front-end and a strong interest in back-end development, I aim to create dynamic, user-centered applications. When I'm not coding, you’ll find me diving into new learning opportunities to keep my skills sharp and stay ahead in the ever-evolving tech world. Let's build something great together!
 
 
